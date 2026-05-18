@@ -186,4 +186,3 @@ Para os projetos do DSBD, os servidores `cpu1`, `cpu2` e `orval` já disponívei
 
 ---
 
-*Infraestrutura Computacional — DSBD UFPR | Prof. Paulo Ricardo Lisboa de Almeida*
